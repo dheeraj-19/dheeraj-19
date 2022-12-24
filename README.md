@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning various concpets in Artificial Intelligence and Machine Learning. Also working on applying various algorithms and data structures to different problems
 
-- 📫 You can reach out to me via email: dheerajmanchandia@gmail.com
+- 📫 You can reach out to me via Email: dheerajmanchandia@gmail.com or my LinkedIn: https://www.linkedin.com/in/dheeraj-manchandia/
 
 <!---
 dheeraj-19/dheeraj-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
