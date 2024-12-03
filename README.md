@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Manchandia
 
-		Currently pursuing a Master's in Computer Science from Indiana University Bloomington.
+		Recently graduated with a Master's in Computer Science from Indiana University Bloomington.
 
 		Strong engineering professional with a Bachelor of Engineering (B.E.) degree focused on Computer Engineering from the University of Mumbai - Thadomal Shahani Engineering College.
 
