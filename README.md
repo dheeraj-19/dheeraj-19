@@ -13,6 +13,8 @@
 
 		- Various concepts in Artificial Intelligence and Machine Learning
 		- Also working on applying various algorithms and data structures to different problems
+  		- Full Stack projects using Java Spring-Boot for backend and React, Angular, HTML, CSS, Bootstrap for frontend
+  		- App development using Flutter, Dart
 
 - 📫 You can reach out to me via 
 
